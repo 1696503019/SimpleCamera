@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\project\\pawndev\\plugins\\simplecamera\\source\\simplecamera\\private\\simplecamera.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project\\pawndev\\intermediate\\build\\win64\\pawndeveditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\project\\pawndev\\plugins\\simplecamera\\intermediate\\build\\win64\\unrealeditor\\development\\simplecamera\\definitions.simplecamera.h",
+            "e:\\project\\pawndev\\plugins\\simplecamera\\source\\simplecamera\\public\\simplecamera.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
